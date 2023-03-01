@@ -1,0 +1,12 @@
+node
+react
+js
+npm
+mongoose
+mongo db
+postman
+bcrypt
+shortid
+nodemon
+multer
+express
